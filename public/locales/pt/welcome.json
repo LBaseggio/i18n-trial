@@ -1,0 +1,26 @@
+{
+  "navLinks": {
+    "home": "Casa",
+    "about": "Sobre",
+    "contact": "Contactos"
+  },
+  "greeting": "Olá Jovens Programadores",
+  "content": {
+    "developersJob": "Os web developers projetam e criam sites. Eles são responsáveis pela aparência do site. Eles também são responsáveis pelos aspectos técnicos do site, como desempenho e capacidade, que medem a velocidade de um site e a quantidade de tráfego que o site pode suportar.",
+    "avgDevelopersSalary": "Um web developer a trabalhar em Portugal ganha em média <1>15,729€</1> por ano."
+  },
+  "home": {
+    "header": "Algumas palavras aleatórias, sem ser lorem ipsum. Por que não? Afinal, isto é uma experiência."
+  },
+  "about": {
+    "paragraphOne": "Estou programando há quase 2 anos e ainda continuo me perguntando a mesma coisa: Por que eu codifico ?. Eu tinha 16 anos quando comecei a escrever códigos usando apenas HTML e CSS. Tenho esse mentor, conselheiro e professor em nossa escola. Seu nome é Cris. E enquanto eu estava baixando alguns tutoriais piratas da udemy em nosso laboratório de informática. Cris de repente se aproxima de mim e me pergunta se eu quero participar de um concurso de Web Design em nossa escola. Minha resposta a Ele (com uma mente pessimista) foi 'Sinto muito, mas não posso, porque não sei nada sobre como escrever códigos'."
+  },
+  "contact": {
+      "phone": "Telefone",
+      "mail": "Email",
+      "address": {
+          "street": "Rua",
+          "door": "Número"
+      }
+  }
+}

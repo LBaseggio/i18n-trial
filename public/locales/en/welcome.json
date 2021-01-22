@@ -1,0 +1,26 @@
+{
+  "navLinks": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contacts"
+  },
+  "greeting": "Hello Young Developers",
+  "content": {
+    "developersJob": "Web developers design and create websites. They are responsible for the look of the site. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle.",
+    "avgDevelopersSalary": "A web developer working in the UK earns an average of <1>£52,500</1> a year."
+  },
+  "home": {
+    "header": "Some random not lorem ipsum words. Why not? This is an experiment after all."
+  },
+  "about": {
+    "paragraphOne": "I've been coding for almost 2yrs and I still kept asking myself the same question: Why do I code?. I was 16/yo when I started to write codes using HTML and CSS only. I have this mentor, adviser, and teacher in our school. His name is Cris. And while I was downloading some pirated tutorials from udemy in our computer lab. Cris suddenly approaches me and ask me if I want to join a Web Design contest in our school. My response to Him (with a pessimist mind) was 'I'm sorry but I cannot, because I know nothing about writing codes'."
+  },
+  "contact": {
+      "phone": "Phone",
+      "mail": "Email",
+      "address": {
+          "street": "Street",
+          "door": "Number"
+      }
+  }
+}

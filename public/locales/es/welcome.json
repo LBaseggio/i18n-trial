@@ -1,0 +1,26 @@
+{
+  "navLinks": {
+    "home": "Hogar",
+    "about": "Sobre",
+    "contact": "Contactos"
+  },
+  "greeting": "Hola Jóvenes Programadores y Programadoras",
+  "content": {
+    "developersJob": "Los web developers diseñan y crean sitios web. Ellos son los responsables de la apariencia del sitio. También son responsables de los aspectos técnicos del sitio, como su rendimiento y capacidad, que son medidas de la velocidad de un sitio web y cuánto tráfico puede manejar el sitio.",
+    "avgDevelopersSalary": "Un desarrollador web que trabaja en España gana una media de <1>21,737€</1> al año."
+  },
+  "home": {
+    "header": "Algunas palabras al azar no lorem ipsum. Por qué no? Después de todo, este es un experimento."
+  },
+  "about": {
+    "paragraphOne": "He estado codificando durante casi 2 años y todavía me sigo haciendo la misma pregunta: ¿Por qué codifico? Tenía 16 años cuando comencé a escribir códigos usando HTML y CSS solamente. Tengo este mentor, consejero y maestro en nuestra escuela. Su nombre es Cris. Y mientras descargaba algunos tutoriales pirateados de udemy en nuestro laboratorio de computación. Cris de repente se me acerca y me pregunta si quiero unirme a un concurso de Diseño Web en nuestra escuela. Mi respuesta a Él (con una mente pesimista) fue 'Lo siento pero no puedo, porque no sé nada sobre escribir códigos'."
+  },
+  "contact": {
+      "phone": "Teléfono",
+      "mail": "Correo electrónico",
+      "address": {
+          "street": "Calle",
+          "door": "Número"
+      }
+  }
+}

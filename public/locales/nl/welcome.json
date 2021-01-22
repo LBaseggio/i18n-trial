@@ -1,0 +1,26 @@
+{
+  "navLinks": {
+    "home": "Huis",
+    "about": "Over",
+    "contact": "Contacten"
+  },
+  "greeting": "Hallo Jonge Ontwikkelaars",
+  "content": {
+    "developersJob": "Webontwikkelaars ontwerpen en maken websites. Zij zijn verantwoordelijk voor de uitstraling van de site. Ze zijn ook verantwoordelijk voor de technische aspecten van de site, zoals de prestaties en capaciteit, die de snelheid van een website meten en hoeveel verkeer de site aankan.",
+    "avgDevelopersSalary": "Een webontwikkelaar die in Nederland werkt, verdient gemiddeld <1>33,498€</1> per jaar."
+  },
+  "home": {
+    "header": "Enkele willekeurige niet lorem ipsum woorden. Waarom niet? Dit is tenslotte een experiment."
+  },
+  "about": {
+    "paragraphOne": "Ik codeer al bijna 2 jaar en ik bleef mezelf steeds dezelfde vraag stellen: waarom codeer ik ?. Ik was 16 jaar toen ik codes begon te schrijven met alleen HTML en CSS. Ik heb deze mentor, adviseur en leraar op onze school. Zijn naam is Cris. En terwijl ik enkele illegale tutorials van udemy aan het downloaden was in ons computerlab. Cris komt plotseling naar me toe en vraagt me of ik mee wil doen aan een Web Design-wedstrijd op onze school. Mijn reactie op Hem (met een pessimistische geest) was: 'Het spijt me, maar ik kan het niet, want ik weet niets van het schrijven van codes'."
+  },
+  "contact": {
+      "phone": "Telefoon",
+      "mail": "E-mail",
+      "address": {
+          "street": "Straat",
+          "door": "Aantal"
+      }
+  }
+}
